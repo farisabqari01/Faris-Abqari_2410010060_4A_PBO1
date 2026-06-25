@@ -188,5 +188,6 @@ try {
 
 ## Pembuat
 
-Nama: Muhammad Edya Rosadi
-NPM: 2110010001
+Nama: Faris Abqari
+NPM: 2410010060
+
